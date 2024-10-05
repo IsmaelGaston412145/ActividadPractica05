@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Usuario\\source\\repos\\Practica05\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5863BBAA-D9A5-4C4B-8AAC-B4724F1B23F8}|Practica05\\Practica05.csproj|c:\\users\\usuario\\source\\repos\\practica05\\practica05\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5863BBAA-D9A5-4C4B-8AAC-B4724F1B23F8}|Practica05\\Practica05.csproj|solutionrelative:practica05\\controllers\\turnoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "TurnosController.cs",
+              "DocumentMoniker": "C:\\Users\\Usuario\\source\\repos\\Practica05\\Practica05\\Controllers\\TurnosController.cs",
+              "RelativeDocumentMoniker": "Practica05\\Controllers\\TurnosController.cs",
+              "ToolTip": "C:\\Users\\Usuario\\source\\repos\\Practica05\\Practica05\\Controllers\\TurnosController.cs",
+              "RelativeToolTip": "Practica05\\Controllers\\TurnosController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-04T14:37:29.55Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
